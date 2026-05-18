@@ -1,32 +1,32 @@
 {
   "prices": {
     "diesel": {
-      "price": 93.56,
-      "last_updated": "18/05/2026 16:37",
+      "price": 90.51,
+      "last_updated": "18/05/2026 16:46",
       "mode": "normal",
       "unit": "canister",
-      "prev_price": 91.02
+      "prev_price": 90.68
     },
     "crude oil": {
-      "price": 3.84,
-      "last_updated": "18/05/2026 16:37",
+      "price": 3.86,
+      "last_updated": "18/05/2026 16:46",
       "mode": "normal",
       "unit": "barrel",
-      "prev_price": 3.88
+      "prev_price": 3.9
     },
     "diamond": {
-      "price": 2820.83,
-      "last_updated": "18/05/2026 16:37",
+      "price": 2716.72,
+      "last_updated": "18/05/2026 16:46",
       "mode": "normal",
       "unit": "gem",
-      "prev_price": 2767.17
+      "prev_price": 2706.16
     },
     "iron": {
-      "price": 6.1,
-      "last_updated": "18/05/2026 16:37",
+      "price": 5.85,
+      "last_updated": "18/05/2026 16:46",
       "mode": "normal",
       "unit": "ingot",
-      "prev_price": 6.14,
+      "prev_price": 5.93,
       "history": [
         {
           "time": "2026-05-18T14:18:11.186680",
@@ -587,6 +587,46 @@
         {
           "time": "2026-05-18T16:37:11.193183",
           "price": 6.1
+        },
+        {
+          "time": "2026-05-18T16:38:11.198339",
+          "price": 6.24
+        },
+        {
+          "time": "2026-05-18T16:39:11.201621",
+          "price": 6.28
+        },
+        {
+          "time": "2026-05-18T16:40:11.197216",
+          "price": 6.37
+        },
+        {
+          "time": "2026-05-18T16:41:11.190589",
+          "price": 6.18
+        },
+        {
+          "time": "2026-05-18T16:41:53.710603",
+          "price": 6.08
+        },
+        {
+          "time": "2026-05-18T16:42:53.724390",
+          "price": 6.02
+        },
+        {
+          "time": "2026-05-18T16:43:53.712715",
+          "price": 6.09
+        },
+        {
+          "time": "2026-05-18T16:44:53.712404",
+          "price": 6.01
+        },
+        {
+          "time": "2026-05-18T16:45:53.709831",
+          "price": 5.93
+        },
+        {
+          "time": "2026-05-18T16:46:53.719905",
+          "price": 5.85
         }
       ]
     }

@@ -1,32 +1,32 @@
 {
   "prices": {
     "diesel": {
-      "price": 103.17,
-      "last_updated": "18/05/2026 13:53",
+      "price": 99.2,
+      "last_updated": "18/05/2026 13:58",
       "mode": "normal",
       "unit": "canister",
-      "prev_price": 100.86
+      "prev_price": 101.01
     },
     "crude oil": {
-      "price": 3.79,
-      "last_updated": "18/05/2026 13:53",
+      "price": 3.52,
+      "last_updated": "18/05/2026 13:58",
       "mode": "normal",
       "unit": "barrel",
-      "prev_price": 3.86
+      "prev_price": 3.61
     },
     "diamond": {
-      "price": 4921.77,
-      "last_updated": "18/05/2026 13:53",
+      "price": 4570.74,
+      "last_updated": "18/05/2026 13:58",
       "mode": "normal",
       "unit": "gem",
-      "prev_price": 5014.53
+      "prev_price": 4693.03
     },
     "iron": {
-      "price": 5.22,
-      "last_updated": "18/05/2026 13:53",
+      "price": 5.19,
+      "last_updated": "18/05/2026 13:58",
       "mode": "normal",
       "unit": "ingot",
-      "prev_price": 5.07
+      "prev_price": 5.32
     }
   },
   "positions": {},

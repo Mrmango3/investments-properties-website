@@ -1,11 +1,11 @@
 {
   "prices": {
     "diesel": {
-      "price": 1740.17,
-      "last_updated": "18/05/2026 22:15",
+      "price": 1749.96,
+      "last_updated": "18/05/2026 22:20",
       "mode": "peaceful",
       "unit": "canister",
-      "prev_price": 1734.75,
+      "prev_price": 1751.8,
       "history": [
         {
           "time": "2026-05-18T20:45:09.212498",
@@ -370,15 +370,35 @@
         {
           "time": "2026-05-18T22:15:09.223435",
           "price": 1740.17
+        },
+        {
+          "time": "2026-05-18T22:16:09.225939",
+          "price": 1741.86
+        },
+        {
+          "time": "2026-05-18T22:17:09.218559",
+          "price": 1745.76
+        },
+        {
+          "time": "2026-05-18T22:18:09.231414",
+          "price": 1750.72
+        },
+        {
+          "time": "2026-05-18T22:19:09.235013",
+          "price": 1751.8
+        },
+        {
+          "time": "2026-05-18T22:20:09.215302",
+          "price": 1749.96
         }
       ]
     },
     "gasoline": {
-      "price": 1474.04,
-      "last_updated": "18/05/2026 22:15",
+      "price": 1477.09,
+      "last_updated": "18/05/2026 22:20",
       "mode": "peaceful",
       "unit": "canister",
-      "prev_price": 1481.44,
+      "prev_price": 1468.82,
       "history": [
         {
           "time": "2026-05-18T21:42:09.238667",
@@ -515,6 +535,26 @@
         {
           "time": "2026-05-18T22:15:09.223468",
           "price": 1474.04
+        },
+        {
+          "time": "2026-05-18T22:16:09.225951",
+          "price": 1481.18
+        },
+        {
+          "time": "2026-05-18T22:17:09.218573",
+          "price": 1471.58
+        },
+        {
+          "time": "2026-05-18T22:18:09.231425",
+          "price": 1477.06
+        },
+        {
+          "time": "2026-05-18T22:19:09.235028",
+          "price": 1468.82
+        },
+        {
+          "time": "2026-05-18T22:20:09.215314",
+          "price": 1477.09
         }
       ]
     }
@@ -524,21 +564,21 @@
   "history": [],
   "market_paused": false,
   "channels": {
-    "audit": null,
-    "receipts": null,
-    "property_listings": null,
-    "listing_approvals": null,
+    "audit": "1502421160787181568",
+    "receipts": "1502421200733995100",
+    "property_listings": "1502421286045876276",
+    "listing_approvals": "1502421360088055898",
     "ticker": "1503400351607427245",
-    "player_market_listings": null,
-    "player_market_approvals": null,
-    "ping_for_trouble": null
+    "player_market_listings": "1502421408733597786",
+    "player_market_approvals": "1502421434406928525",
+    "ping_for_trouble": "1503481681032777891"
   },
   "properties": {
     "next_id": 1,
     "listings": {}
   },
   "player_markets": {
-    "next_id": 2,
+    "next_id": 3,
     "markets": {
       "1": {
         "id": 1,
@@ -557,10 +597,38 @@
         "created_iso": "2026-05-18T21:21:02.843328",
         "approved_at": null,
         "mode": "normal"
+      },
+      "2": {
+        "id": 2,
+        "name": "Test 2",
+        "description": "Money more money",
+        "owner_id": "726170619397537832",
+        "owner_name": "mr_mangos",
+        "total_value": 2500000.0,
+        "percentage_sold": 1.0,
+        "total_shares": 1,
+        "share_price": 25000.0,
+        "current_price": 25000.0,
+        "prev_price": 25000.0,
+        "status": "active",
+        "created_at": "18/05/2026 22:18",
+        "created_iso": "2026-05-18T22:18:03.061247",
+        "approved_at": "2026-05-18T22:18:14.333600",
+        "mode": "normal"
       }
     }
   },
-  "business_banks": {},
+  "business_banks": {
+    "2": {
+      "balance": -1000,
+      "created_at": "2026-05-18T22:18:14.333607",
+      "last_weekly_fee": "2026-05-18T22:18:14.333609",
+      "first_deposit_made": false,
+      "created_iso": "2026-05-18T22:18:14.333610",
+      "last_activity": "2026-05-18T22:18:14.333618",
+      "last_inactivity_ping": null
+    }
+  },
   "vip_members": {},
   "business_vip_members": {},
   "role_downgrades": {},

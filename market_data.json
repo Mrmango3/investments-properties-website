@@ -1,11 +1,11 @@
 {
   "prices": {
     "diesel": {
-      "price": 104.29,
-      "last_updated": "18/05/2026 21:20",
-      "mode": "volatile",
+      "price": 99.31,
+      "last_updated": "18/05/2026 21:25",
+      "mode": "peaceful",
       "unit": "canister",
-      "prev_price": 98.28,
+      "prev_price": 99.11,
       "history": [
         {
           "time": "2026-05-18T20:45:09.212498",
@@ -150,15 +150,35 @@
         {
           "time": "2026-05-18T21:20:09.222329",
           "price": 104.29
+        },
+        {
+          "time": "2026-05-18T21:21:09.225021",
+          "price": 98.31
+        },
+        {
+          "time": "2026-05-18T21:22:09.229084",
+          "price": 102.45
+        },
+        {
+          "time": "2026-05-18T21:23:09.218647",
+          "price": 99.19
+        },
+        {
+          "time": "2026-05-18T21:24:09.226073",
+          "price": 99.11
+        },
+        {
+          "time": "2026-05-18T21:25:09.217808",
+          "price": 99.31
         }
       ]
     },
     "iron": {
-      "price": 7.88,
-      "last_updated": "18/05/2026 21:20",
-      "mode": "volatile",
+      "price": 7.0,
+      "last_updated": "18/05/2026 21:25",
+      "mode": "peaceful",
       "unit": "ingot",
-      "prev_price": 7.33,
+      "prev_price": 7.0,
       "history": [
         {
           "time": "2026-05-18T14:18:11.186680",
@@ -1855,6 +1875,26 @@
         {
           "time": "2026-05-18T21:20:09.222398",
           "price": 7.88
+        },
+        {
+          "time": "2026-05-18T21:21:09.225051",
+          "price": 7.53
+        },
+        {
+          "time": "2026-05-18T21:22:09.229145",
+          "price": 7.4
+        },
+        {
+          "time": "2026-05-18T21:23:09.218674",
+          "price": 7.0
+        },
+        {
+          "time": "2026-05-18T21:24:09.226097",
+          "price": 7.0
+        },
+        {
+          "time": "2026-05-18T21:25:09.217822",
+          "price": 7.0
         }
       ]
     }
@@ -1878,8 +1918,27 @@
     "listings": {}
   },
   "player_markets": {
-    "next_id": 1,
-    "markets": {}
+    "next_id": 2,
+    "markets": {
+      "1": {
+        "id": 1,
+        "name": "Test 1",
+        "description": "Money money moneyyyy",
+        "owner_id": "726170619397537832",
+        "owner_name": "mr_mangos",
+        "total_value": 2500000.0,
+        "percentage_sold": 1.0,
+        "total_shares": 1,
+        "share_price": 25000.0,
+        "current_price": 25000.0,
+        "prev_price": 25000.0,
+        "status": "pending",
+        "created_at": "18/05/2026 21:21",
+        "created_iso": "2026-05-18T21:21:02.843328",
+        "approved_at": null,
+        "mode": "normal"
+      }
+    }
   },
   "business_banks": {},
   "vip_members": {},

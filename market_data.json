@@ -1,0 +1,74 @@
+{
+  "prices": {
+    "diesel": {
+      "price": 4.99,
+      "last_updated": "18/05/2026 12:39",
+      "mode": "normal",
+      "unit": "canister",
+      "prev_price": 4.95
+    },
+    "crude oil": {
+      "price": 4.74,
+      "last_updated": "18/05/2026 12:39",
+      "mode": "normal",
+      "unit": "barrel",
+      "prev_price": 4.81
+    },
+    "diamond": {
+      "price": 5.59,
+      "last_updated": "18/05/2026 12:39",
+      "mode": "normal",
+      "unit": "gem",
+      "prev_price": 5.48
+    },
+    "iron": {
+      "price": 4.71,
+      "last_updated": "18/05/2026 12:39",
+      "mode": "normal",
+      "unit": "ingot",
+      "prev_price": 4.67
+    }
+  },
+  "positions": {},
+  "balances": {},
+  "history": [],
+  "market_paused": false,
+  "channels": {
+    "audit": null,
+    "receipts": null,
+    "property_listings": null,
+    "listing_approvals": null,
+    "ticker": null,
+    "player_market_listings": null,
+    "player_market_approvals": null,
+    "ping_for_trouble": null
+  },
+  "properties": {
+    "next_id": 1,
+    "listings": {}
+  },
+  "player_markets": {
+    "next_id": 1,
+    "markets": {}
+  },
+  "business_banks": {},
+  "vip_members": {},
+  "business_vip_members": {},
+  "role_downgrades": {},
+  "price_transitions": {},
+  "crash_records": {},
+  "pending_requests": {},
+  "broker": {
+    "balance": 0.0,
+    "total_paid_out": 0.0,
+    "total_collected": 0.0,
+    "net": 0.0,
+    "trading_fees_collected": 0.0,
+    "property_commissions_collected": 0.0,
+    "business_cuts_collected": 0.0,
+    "overnight_fees_collected": 0.0,
+    "casino_collected": 0.0,
+    "daily_log": {},
+    "weekly_log": {}
+  }
+}
